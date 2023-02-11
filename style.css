@@ -1,0 +1,16 @@
+.note {
+color:darkgoldenrod;
+font-size: 17px;
+}
+
+h3 {
+color: silver;
+margin-top: 0%;
+}
+
+canvas {
+background-color: #000000;    
+border: 5px solid white;
+border-radius: 20px;
+box-shadow:5px 5px 5px green;
+}
